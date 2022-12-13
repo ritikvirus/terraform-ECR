@@ -3,7 +3,7 @@ tags = {
 }
 
 ecr_name = [
-  "demoapp/frontendservice"
+  "ritik/virus"
 ]
 
 
